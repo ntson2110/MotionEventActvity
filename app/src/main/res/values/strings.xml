@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionEventActvity</string>
+    <string name="txt1">TextView</string>
+    <string name="txt2">TextView</string>
+</resources>

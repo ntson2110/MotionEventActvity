@@ -1,4 +1,5 @@
-# Ứng dụng từ bài:<a href="https://ngocminhtran.com/2018/10/08/phat-hien-cu-chi-nguoi-dung-voi-lop-android-gesture-detector/">Lập trình cơ sở dữ liệu Android với SQLite</a>
+# Ứng dụng từ bài:<a href="https://ngocminhtran.com/2018/10/06/su-kien-va-xu-ly-su-kien-touch-cham-va-multi-touch-da-cham-trong-android/">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android</a>
+
 <a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
 
 <a href="https://github.com/ntson2110/FragmentExample">Fragments trong Android</a>
